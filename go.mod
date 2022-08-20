@@ -1,4 +1,4 @@
-module github.com/ryodocx/certmagic-kube-storage
+module github.com/ryodocx/caddy-kube-storage
 
 go 1.19
 
