@@ -15,7 +15,7 @@ jobs:
       - uses: docker/metadata-action@v4
         id: meta
         with:
-          images: ghcr.io/ryodocx/testserver
+          images: ghcr.io/ryodocx/caddy-kube-storage
           flavor: |
             latest=auto
             prefix=v

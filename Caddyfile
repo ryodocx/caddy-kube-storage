@@ -1,2 +1,6 @@
-:80
-respond "Hello, world!"
+{
+	storage kubernetes
+}
+:80 {
+	respond "Hello, world!"
+}
